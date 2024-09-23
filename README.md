@@ -2,7 +2,7 @@
 
 Java Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [Resume](https://github.com/Ayyappan-E/my_Resume/blob/9792555db8291354a2e8a39c17df73a736234f5a/Ayyappan%20Resume%202024.pdf)                                          
+- 🔭 Here's my [Resume](https://github.com/Ayyappan-E/my_Ayyappan Resume.pdf)                                          
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Java/Android
 - 🤔 I’m looking for help with Placement
